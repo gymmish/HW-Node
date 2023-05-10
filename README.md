@@ -1,11 +1,3 @@
-# HW-Node
-
-# listContacts,
-
-# getContactById,
-
-# addContact,
-
-# removeContact:
+# HW-Node screenshot:
 
 https://ibb.co/vQXHLGC
